@@ -1,0 +1,1 @@
+png,jpg images in this folder
